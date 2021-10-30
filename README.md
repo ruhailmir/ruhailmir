@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RuhailMir
-- 👀 I’m interested in Mobile, Web Development, ML, Computer Graphics, Phycics Simulations.
+- 👀 I’m interested in Mobile, Web Development, ML, Computer Graphics, Physics Simulations.
 - 🌱 I’m currently learning Physics Simulations and Computer Graphics.
 - 💞️ I’m looking to collaborate on Mobile, Web, ML and Computer Simulation projects.
 - 📫 How to reach me :
