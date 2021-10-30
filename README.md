@@ -1,7 +1,7 @@
 - 👋 Hi, I’m RuhailMir
-- 👀 I’m interested in Mobile, Web Development, ML, Computer Graphics, Maths and Phycics.
-- 🌱 I’m currently learning Physics and Computer Graphics.
-- 💞️ I’m looking to collaborate on Mobile, Web, ML and Computer Graphics projects.
+- 👀 I’m interested in Mobile, Web Development, ML, Computer Graphics, Phycics Simulations.
+- 🌱 I’m currently learning Physics Simulations and Computer Graphics.
+- 💞️ I’m looking to collaborate on Mobile, Web, ML and Computer Simulation projects.
 - 📫 How to reach me :
     - Twitter: https://www.twitter.com/ImRuhailMir 🔥
     - Instagram: https://www.instagram.com/ruhailmir 💙
